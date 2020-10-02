@@ -1,6 +1,6 @@
 ---
 applications:
-- name: srvProd
+- name: srvNodeJS
   path: .
   buildpack: nodejs_buildpack
   memory: 50M

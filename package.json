@@ -1,7 +1,7 @@
 {
-  "name": "mprs-nodejs",
+  "name": "srvNodeJS",
   "version": "1.0.0",
-  "description": "NodeJS server for MPRS",
+  "description": "NodeJS server for CF",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js"
@@ -15,5 +15,10 @@
   "dependencies": {
     "express": "^4.17.1",
     "nodemon": "^2.0.3"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/Basselbi/nodeSRV/issues"
+  },
+  "homepage": "https://github.com/Basselbi/nodeSRV#readme",
+  "devDependencies": {}
 }
