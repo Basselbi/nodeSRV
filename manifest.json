@@ -1,0 +1,8 @@
+---
+applications:
+- name: srvProd
+  path: .
+  buildpack: nodejs_buildpack
+  memory: 50M
+  disk_quota: 100M
+  

@@ -1,0 +1,19 @@
+{
+  "name": "mprs-nodejs",
+  "version": "1.0.0",
+  "description": "NodeJS server for MPRS",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Basselbi/nodeSRV.git"
+  },
+  "author": "Bassel EL-BIZRI",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3"
+  }
+}
